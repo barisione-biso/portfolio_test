@@ -1,3 +1,11 @@
+| Elemento | Convención | Ejemplo |
+|---|---|---|
+| Clases | PascalCase | `AllocatedStock` |
+| Variables y funciones/métodos | snake_case | `clp_invested`, `update_price()` |
+| Constantes | UPPER_SNAKE_CASE | `MAX_STOCK_PRICE` |
+
+---
+
 SOLTAR LA MANO, VER QUE EL CODIGO SEA PYDANTIC
 
 Sorting algorithms
