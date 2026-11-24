@@ -2,6 +2,7 @@
 # Fabrizio Barisione at gmail.com
 # Review this code along with either the excalidraw export and / or the PNG file
 # Two part in this file were flagged with chatgpt usage
+# Excalidraw link : https://excalidraw.com/#json=MrYEd9SZAkSgdot2j5ZI0,WGfsQjbcaAWixO07ZUyh2Q
 from dataclasses import dataclass
 from math import isclose, isfinite
 from random import randint
